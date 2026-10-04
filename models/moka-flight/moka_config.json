@@ -1,0 +1,10 @@
+{
+  "id": "moka-flight",
+  "name": "moka-flight",
+  "kind": "student",
+  "arch": "moka-tiny",
+  "layers": 4,
+  "trained_on": "shipped student, distance weights held at zero",
+  "note": "weak on distance",
+  "blind_distance": false
+}

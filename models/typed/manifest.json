@@ -1,0 +1,8 @@
+{
+  "id": "typed",
+  "name": "typed",
+  "kind": "laya",
+  "trained_on": "none",
+  "enabled": false,
+  "note": "Slot for a dropped Laya bundle."
+}

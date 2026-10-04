@@ -1,0 +1,7 @@
+{
+  "id": "wing",
+  "name": "wing",
+  "kind": "wing",
+  "camera": "nose",
+  "enabled": false
+}

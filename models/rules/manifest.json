@@ -1,0 +1,8 @@
+{
+  "id": "rules",
+  "name": "rules",
+  "kind": "rules",
+  "trained_on": "teacher",
+  "enabled": true,
+  "note": "No weights. Far and healthy is enroute, close is approach, over the pad is land, low battery or no GPS is rtl."
+}

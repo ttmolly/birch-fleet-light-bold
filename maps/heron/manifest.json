@@ -1,0 +1,8 @@
+{
+  "id": "heron",
+  "bird": "Heron",
+  "biome": "woods",
+  "home_pad": { "x": 0, "y": 0.2, "z": 0, "label": "clearing" },
+  "origin": { "lat": 46.532, "lon": 11.456 },
+  "enabled": true
+}

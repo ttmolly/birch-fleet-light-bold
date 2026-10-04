@@ -1,0 +1,7 @@
+{
+  "id": "a-to-b-opposed",
+  "name": "A to B, opposed",
+  "kind": "opposed",
+  "summary": "Same waypoints, plus other drones and hazards that only occupy space.",
+  "enabled": true
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Moka-beam",
+      "hasCanvas": true,
+      "bodyTextLen": 1235,
+      "bodyTextHash": "1c68fb1253e32c7e67309976c7c4acd4de3ebc7cec9858b250afd3c16dc1694f",
+      "bodyTextPrefix": "LOCAL MISSION SIM Moka-beam You pick the board, the craft, the m",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Moka-beam",
+      "hasCanvas": true,
+      "bodyTextLen": 1235,
+      "bodyTextHash": "1c68fb1253e32c7e67309976c7c4acd4de3ebc7cec9858b250afd3c16dc1694f",
+      "bodyTextPrefix": "LOCAL MISSION SIM Moka-beam You pick the board, the craft, the m",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

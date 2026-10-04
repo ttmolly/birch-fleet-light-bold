@@ -1,0 +1,8 @@
+{
+  "id": "moka-flight",
+  "name": "moka-flight",
+  "kind": "student",
+  "trained_on": "shipped student, distance weights held at zero",
+  "enabled": true,
+  "note": "weak on distance"
+}

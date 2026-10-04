@@ -1,0 +1,7 @@
+{
+  "id": "thread",
+  "name": "Thread",
+  "kind": "thread",
+  "summary": "Obstacle avoidance, meant for Heron. Hit a trunk and the run fails.",
+  "enabled": true
+}

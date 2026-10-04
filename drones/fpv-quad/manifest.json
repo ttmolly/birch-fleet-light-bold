@@ -1,0 +1,7 @@
+{
+  "id": "fpv-quad",
+  "name": "FPV quadcopter",
+  "kind": "quad",
+  "camera": "nose-fpv",
+  "enabled": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": "track",
+  "name": "Track",
+  "kind": "track",
+  "summary": "Follow a marker or a second drone. Shuttle, patrol, or break.",
+  "enabled": true
+}

@@ -1,0 +1,6 @@
+{
+  "id": "jetson",
+  "name": "Jetson",
+  "ram_gb": 8,
+  "enabled": false
+}

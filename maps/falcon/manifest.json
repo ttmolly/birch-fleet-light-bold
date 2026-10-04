@@ -1,0 +1,8 @@
+{
+  "id": "falcon",
+  "bird": "Falcon",
+  "biome": "desert",
+  "home_pad": { "x": 0, "y": 0.25, "z": 18, "label": "flat" },
+  "origin": { "lat": 33.448, "lon": -112.074 },
+  "enabled": true
+}

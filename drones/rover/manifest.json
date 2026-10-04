@@ -1,0 +1,7 @@
+{
+  "id": "rover",
+  "name": "rover",
+  "kind": "rover",
+  "camera": "mast",
+  "enabled": false
+}

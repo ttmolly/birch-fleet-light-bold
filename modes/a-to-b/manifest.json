@@ -1,0 +1,7 @@
+{
+  "id": "a-to-b",
+  "name": "A to B",
+  "kind": "waypoints",
+  "summary": "Click waypoints. The craft flies them in order and lands on the last.",
+  "enabled": true
+}

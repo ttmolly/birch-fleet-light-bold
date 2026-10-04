@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Moka-beam",
+      "hasCanvas": false,
+      "bodyTextLen": 1233,
+      "bodyTextHash": "ea881f128d085c32fd82fce3e47256c7314e5983598b9c2c3570a0cea7f2f144",
+      "bodyTextPrefix": "LOCAL MISSION SIM Moka-beam You pick the board, the craft, the m",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Moka-beam",
+      "hasCanvas": false,
+      "bodyTextLen": 1233,
+      "bodyTextHash": "ea881f128d085c32fd82fce3e47256c7314e5983598b9c2c3570a0cea7f2f144",
+      "bodyTextPrefix": "LOCAL MISSION SIM Moka-beam You pick the board, the craft, the m",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: canvas disappeared",
+    "mobile: canvas disappeared"
+  ]
+}

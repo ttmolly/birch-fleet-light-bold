@@ -1,0 +1,5 @@
+{
+  "type": "moka-tiny-v1",
+  "features": 16,
+  "note": "Whitespace state text. Distance, altitude, battery, gps, obstacle, gap, target, and over pad are binned into 16 numbers. Four linear layers. Not a BPE tokenizer."
+}

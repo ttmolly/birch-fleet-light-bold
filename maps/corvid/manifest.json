@@ -1,0 +1,8 @@
+{
+  "id": "corvid",
+  "bird": "Corvid",
+  "biome": "city",
+  "home_pad": { "x": 0, "y": 12, "z": 0, "label": "rooftop" },
+  "origin": { "lat": 51.2277, "lon": 6.7735 },
+  "enabled": true
+}
